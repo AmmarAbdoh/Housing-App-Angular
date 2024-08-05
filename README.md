@@ -1,4 +1,3 @@
-## My First Angular Project
 
 ## Overview
 This project is a simple Angular application that showcases home locations with their information. Users can interact with each home, search according to city, and view full information for any house.
